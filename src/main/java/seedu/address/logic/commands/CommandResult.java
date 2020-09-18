@@ -7,8 +7,7 @@ import java.util.Objects;
 /**
  * Represents the result of a command execution.
  */
-public class
-CommandResult {
+public class CommandResult {
 
     private final String feedbackToUser;
 
